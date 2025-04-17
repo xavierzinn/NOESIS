@@ -6,8 +6,15 @@ This whitepaper introduces **NOESIS**, a symbolic communication protocol that el
 
 By shifting meaning into the observer — using glyphs, SharedKeys, and TreeContext overlays — NOESIS enables secure, unverifiable cognition with no ciphertext, no payload, and no interception risk.
 
-**📄 Read the full whitepaper:**  
-👉 📄 [Read the full whitepaper](https://github.com/xavierzinn/NOESIS/raw/main/NOESIS-Whitepaper.pdf)
+## 🔍 Read the NOESIS Whitepaper
+
+You can read the whitepaper in two ways:
+
+- 📥 **Direct Download (Recommended)**:  
+  [NOESIS-whitepaper.pdf](https://github.com/xavierzinn/NOESIS/raw/main/NOESIS-Whitepaper.pdf)
+
+- 🌐 **In-Browser Preview via GitHub Viewer**:  
+  [NOESIS-whitepaper.pdf on GitHub](https://github.com/xavierzinn/NOESIS/blob/main/NOESIS-Whitepaper.pdf)
 
 ---
 
